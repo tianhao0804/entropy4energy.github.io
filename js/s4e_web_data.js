@@ -3,7 +3,7 @@ const newsItems=[
 date:'February 23, 2024',
 newsTitle:'The group meets with prospective students',
 message:'The group met with 24 Fall Ph.D. program prospective students!',
-pictures:['pic_prospective_day_dinner_2024.jpg','pic_prospective_day_meeting_2024.jpg'],
+pictures:['pic_prospective_day_dinner_2024.png','pic_prospective_day_meeting_2024.png'],
 },
 {
 date:'January 17, 2023',
