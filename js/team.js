@@ -77,7 +77,7 @@
       contact: 'xlin44 at jhu.edu',
       nameFull: 'Xuanhao Lin',
       titles: [
-        'Graduate Student',
+        'Alumni',
       ],
     },
     'will_shiber': {
@@ -98,14 +98,14 @@
       contact: 'vtan5 at jhu.edu',
       nameFull: 'Veric Tan',
       titles: [
-        'Undergraduate Student',
+        'Alumni',
       ],
     },
     'dakota_braaten': {
       contact: 'dbraate1 at jhu.edu',
       nameFull: 'Dakota Braaten',
       titles: [
-        'Undergraduate Student',
+        'Alumni',
       ],
     },
     'julia_gelfond': {
